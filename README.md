@@ -5,4 +5,4 @@ The comma stored values in the .txt file need to be in the following format, wit
 
 0.0,1.1,2.2,4.3,
 
-Adafruit highly recommeds using the offical SD Association formatting software for formatting SD cards, a a lot of formatting issues can be avoided doing so. The software can be found here: https://www.sdcard.org/downloads/formatter/  
+Adafruit highly recommeds using the offical SD Association formatting software for formatting SD cards, as a lot of formatting issues can be avoided doing so. The software can be found here: https://www.sdcard.org/downloads/formatter/  
