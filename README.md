@@ -5,4 +5,6 @@ The comma stored values in the .txt file need to be in the following format, wit
 
 0.0,1.1,2.2,4.3,
 
+The card reader being used in this example is an Adafruit 5V ready Micro-SD Breakout Board.  https://www.adafruit.com/product/254.  Follow the hook-up example for Arduino.
+
 Adafruit highly recommeds using the offical SD Association formatting software for formatting SD cards, as a lot of formatting issues can be avoided doing so. The software can be found here: https://www.sdcard.org/downloads/formatter/  
